@@ -1,0 +1,1 @@
+# Elegoo-Resin-Settings-Chrome-Ext
